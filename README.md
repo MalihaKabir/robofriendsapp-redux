@@ -7,6 +7,7 @@ This is the **RoboFriendsApp-v3**(final version) created by using Redux. Click *
 * clone this repo
 * npm install
 * npm start
+* [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) and [Robohash API](https://robohash.org/) are used here.
 
 #### Screenshot of the app:
 
